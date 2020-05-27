@@ -65,6 +65,7 @@
             this.ficheiroToolStripMenuItem.Name = "ficheiroToolStripMenuItem";
             this.ficheiroToolStripMenuItem.Size = new System.Drawing.Size(61, 20);
             this.ficheiroToolStripMenuItem.Text = "Ficheiro";
+            this.ficheiroToolStripMenuItem.Click += new System.EventHandler(this.ficheiroToolStripMenuItem_Click);
             // 
             // estatisticasToolStripMenuItem
             // 
