@@ -44,9 +44,8 @@
             this.Nulos = new System.Windows.Forms.DataGridViewTextBoxColumn();
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).BeginInit();
             this.SuspendLayout();
-            // 
+   
             // dataGridView1
-            // 
             this.dataGridView1.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
             this.dataGridView1.Columns.AddRange(new System.Windows.Forms.DataGridViewColumn[] {
             this.Distrito,
@@ -66,74 +65,60 @@
             this.dataGridView1.Name = "dataGridView1";
             this.dataGridView1.Size = new System.Drawing.Size(1046, 314);
             this.dataGridView1.TabIndex = 0;
-            // 
+    
             // Distrito
-            // 
             this.Distrito.HeaderText = "Distrito";
             this.Distrito.Name = "Distrito";
-            // 
+ 
             // MarceloRDS
-            // 
             this.MarceloRDS.HeaderText = "Marcelo Rabelo de Sousa";
             this.MarceloRDS.Name = "MarceloRDS";
-            // 
+       
             // SampaioDN
-            // 
             this.SampaioDN.HeaderText = "Sampaio da Novoa";
             this.SampaioDN.Name = "SampaioDN";
-            // 
+     
             // MarisaMatias
-            // 
             this.MarisaMatias.HeaderText = "Marisa Matias";
             this.MarisaMatias.Name = "MarisaMatias";
-            // 
+          
             // VitorioSilva
-            // 
             this.VitorioSilva.HeaderText = "Vitorio Silva";
             this.VitorioSilva.Name = "VitorioSilva";
-            // 
+ 
             // MariaBelem
-            // 
             this.MariaBelem.HeaderText = "Maria Belem";
             this.MariaBelem.Name = "MariaBelem";
-            // 
+         
             // PauloMorais
-            // 
             this.PauloMorais.HeaderText = "Paulo Morais";
             this.PauloMorais.Name = "PauloMorais";
-            // 
+       
             // EdgarSilva
-            // 
             this.EdgarSilva.HeaderText = "Edgar Silva";
             this.EdgarSilva.Name = "EdgarSilva";
-            // 
+         
             // HenriqueNeto
-            // 
             this.HenriqueNeto.HeaderText = "Henrique Neto";
             this.HenriqueNeto.Name = "HenriqueNeto";
-            // 
+          
             // JorgeSequeira
-            // 
             this.JorgeSequeira.HeaderText = "Jorge Sequeira";
             this.JorgeSequeira.Name = "JorgeSequeira";
-            // 
+
             // CandidoFerreira
-            // 
             this.CandidoFerreira.HeaderText = "Candido Ferreira";
             this.CandidoFerreira.Name = "CandidoFerreira";
-            // 
+         
             // Brancos
-            // 
             this.Brancos.HeaderText = "Brancos";
             this.Brancos.Name = "Brancos";
-            // 
+      
             // Nulos
-            // 
             this.Nulos.HeaderText = "Nulos";
             this.Nulos.Name = "Nulos";
-            // 
+  
             // FormVisualiza
-            // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(1071, 478);
