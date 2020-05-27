@@ -20,6 +20,7 @@ namespace Presidenciais
 
         private void toolStripButton1_Click(object sender, EventArgs e)
         {
+
             FormResultados novoForm = new FormResultados();
             novoForm.MdiParent = this.MdiParent;
             novoForm.Show();

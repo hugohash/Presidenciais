@@ -58,7 +58,7 @@ namespace Presidenciais
                 StreamReader FicheiroLer = new StreamReader(NomeFich);
                 RegistoResultado resultado = new RegistoResultado();
                 string linha;
-
+                ListaResultados.Clear();
                 while (!FicheiroLer.EndOfStream)
                 {
                     linha = FicheiroLer.ReadLine();

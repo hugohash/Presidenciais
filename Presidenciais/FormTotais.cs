@@ -67,6 +67,9 @@ namespace Presidenciais
             textBox12.Text = TotalvotacaoNulos.ToString();
         }
 
-        
+        private void pictureBox1_Click(object sender, EventArgs e)
+        {
+
+        }
     }    
 }
