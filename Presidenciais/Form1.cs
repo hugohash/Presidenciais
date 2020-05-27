@@ -40,9 +40,6 @@ namespace Presidenciais
             novoForm.Show();
         }
 
-        private void ficheiroToolStripMenuItem_Click(object sender, EventArgs e)
-        {
-
-        }
+        
     }
 }

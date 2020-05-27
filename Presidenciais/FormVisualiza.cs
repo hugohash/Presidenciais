@@ -8,7 +8,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 using static Presidenciais.registo;
-using static Presidenciais.Service;
+
 
 namespace Presidenciais
 {
